@@ -719,27 +719,3 @@ GEMINI_API_KEY="AIza..."
 OPENAI_API_KEY="sk-..."
 HF_TOKEN="hf_..."
 ```
-
----
-
-## License
-
-Academic use — INLP Final Project.
-
-
-This project is developed for academic purposes as part of the INLP (Introduction to NLP) course final project.
-
----
-
-## Citation
-
-If you use this work, please cite:
-
-```bibtex
-@misc{asp2026,
-  title={Adaptive Semantic Decomposition and Parallelism for Cost-Efficient LLM Routing},
-  author={Team Nier_INLP Vidvathama R , Sarvesh Sachin, Snehil Sanjog , Chaitanya D},
-  year={2026},
-  note={INLP Final Project}
-}
-```
